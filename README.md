@@ -6,17 +6,17 @@
 
 | 客户端 | 维护状态 |  Windows | macOS | Android | iOS | 仓库 | 教程 |
 |--------|----------|----------|----------|----------|----------|------|------|
-| [FlClash](https://docs.clash-version.com/zh-CN/flclash.html) | 🟢 | ✅ | ✅ | ✅ | ❌ | [官方](https://github.com/chen08209/FlClash/releases) | [前往](https://docs.clash-version.com/zh-CN/flclash.html) | 
-| [Clash Verge Rev](https://docs.clash-version.com/zh-CN/clash-verge.html) | 🟢 | ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://docs.clash-version.com/zh-CN/clash-verge.html) |
+| [FlClash](https://clash.guide/flclash.html) | 🟢 | ✅ | ✅ | ✅ | ❌ | [官方](https://github.com/chen08209/FlClash/releases) | [前往](https://clash.guide/flclash.html) | 
+| [Clash Verge Rev](https://clash.guide/clash-verge.html) | 🟢 | ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://clash.guide/clash-verge.html) |
 | [ClashMi]() | 🟢 |  ✅ | ✅ | ✅ | ✅ | [官方](https://github.com/KaringX/clashmi/releases) | - |
 | [GUI for Clash]() | 🟢 |  ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | - |
 | [V2rayN]() | 🟢 |  ✅ | ❌ | ❌ | ❌ | [官方](https://github.com/2dust/v2rayN/releases) | - |
 | [Hiddify Next]() | 🟢 | ✅ | ✅ | ✅ | ❌ | [官方](https://github.com/hiddify/hiddify-app/releases) | - |
-| [Clash Meta for Android](https://docs.clash-version.com/zh-CN/clash-meta-for-android.html) | 🟢 | ❌ | ❌ | ✅ | ❌ | [官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://docs.clash-version.com/zh-CN/clash-meta-for-android.html) |
-| [Clash Verge](https://docs.clash-version.com/zh-CN/clash-verge.html) | 🔴 |  ✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clash-verge) | [前往](https://docs.clash-version.com/zh-CN/clash-verge.html) |
-| [Clash for Windows](https://docs.clash-version.com/zh-CN/clash-for-windows.html) | 🔴 |✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clash-for-windows) | [前往](https://docs.clash-version.com/zh-CN/clash-for-windows.html) |
-| [ClashX](https://docs.clash-version.com/zh-CN/clashx.html) | 🔴 |  ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clashx) | [前往](https://docs.clash-version.com/zh-CN/clashx) |
-| [Clash for Android](https://docs.clash-version.com/zh-CN/clash-for-android.html) | 🔴 | ❌ | ❌ | ✅ | ❌ | [备份](https://github.com/clash-version-download/clash-for-android) | [前往](https://docs.clash-version.com/zh-CN/clash-for-android.html) |
+| [Clash Meta for Android](https://clash.guide/clash-meta-for-android.html) | 🟢 | ❌ | ❌ | ✅ | ❌ | [官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://clash.guide/clash-meta-for-android.html) |
+| [Clash Verge](https://clash.guide/clash-verge.html) | 🔴 |  ✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clash-verge) | [前往](https://clash.guide/clash-verge.html) |
+| [Clash for Windows](https://clash.guide/clash-for-windows.html) | 🔴 |✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clash-for-windows) | [前往](https://clash.guide/clash-for-windows.html) |
+| [ClashX](https://clash.guide/clashx.html) | 🔴 |  ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clashx) | [前往](https://clash.guide/clashx) |
+| [Clash for Android](https://clash.guide/clash-for-android.html) | 🔴 | ❌ | ❌ | ✅ | ❌ | [备份](https://github.com/clash-version-download/clash-for-android) | [前往](https://clash.guide/clash-for-android.html) |
 ---
 
 
@@ -163,19 +163,19 @@
 ## 📚 经典版本（已停更但仍可用）
 
 ### ⚠️ Clash Verge （停更）
-- **下载地址**：[GitHub 备份](https://docs.clash-version.com/zh-CN/clash-verge.html)
+- **下载地址**：[GitHub 备份](https://clash.guide/clash-verge.html)
 - **停更说明**：原开发者已停止维护，建议迁移到 Clash Verge Rev
 
 ### ⚠️ Clash for Windows （停更）
-- **下载地址**：[GitHub 备份](https://docs.clash-version.com/zh-CN/clash-for-windows.html)
+- **下载地址**：[GitHub 备份](https://clash.guide/clash-for-windows.html)
 - **停更说明**：曾经最受欢迎的Windows客户端，现已停更
 
 ### ⚠️ ClashX （停更）
-- **下载地址**：[GitHub 备份](https://docs.clash-version.com/zh-CN/clashx.html)
+- **下载地址**：[GitHub 备份](https://clash.guide/clashx.html)
 - **适用平台**：macOS
 
 ### ⚠️ Clash for Android （停更）
-- **下载地址**：[GitHub 备份](https://docs.clash-version.com/zh-CN/clash-for-android.html)
+- **下载地址**：[GitHub 备份](https://clash.guide/clash-for-android.html)
 - **适用平台**：Android
 
 ---
@@ -185,14 +185,14 @@
 - 🚨 **安全提醒**：仅从官方渠道下载，避免恶意软件
 - 🔄 **版本更新**：建议使用活跃维护的版本，及时更新
 - 📖 **使用合规**：请遵守当地法律法规，仅用于学习和合法用途
-- 🛠️ **技术支持**：各客户端在社区都有详细的使用教程👉[前往](https://docs.clash-version.com/zh-CN/download.html)
+- 🛠️ **技术支持**：各客户端在社区都有详细的使用教程👉[前往](https://clash.guide/download.html)
 
 ---
 
 ## 📞 社区与支持
 
 - 💬 **问题反馈**：各项目的 GitHub Issues
-- 📘 **使用教程**：[查看各客户端教程文档](https://docs.clash-version.com/zh-CN/)
+- 📘 **使用教程**：[查看各客户端教程文档](https://clash.guide/)
 - 🌐 **社区讨论**：Reddit、Telegram 等平台的相关群组
 
 ---
