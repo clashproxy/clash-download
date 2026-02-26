@@ -1,22 +1,27 @@
-# 🚀 Clash 客户端版本全览 & 持续更新
+# Clash最新版下载地址及备份下载地址｜2026版
 
-> 最后更新：2025年11月 | 涵盖主流平台的 Clash 客户端
+如果你觉得这个项目对你有帮助，欢迎点右上角的**Star**⭐ 支持一下！**Fork**可永久保存到自己仓库。
 
-## 📊 版本状态总览(停更版本仅备份仓库下载)
+## 客户端汇总
 
-| 客户端 | 维护状态 |  Windows | macOS | Android | iOS | 仓库 | 教程 |
-|--------|----------|----------|----------|----------|----------|------|------|
-| [FlClash](https://clash.guide/flclash.html) | 🟢 | ✅ | ✅ | ✅ | ❌ | [官方](https://github.com/chen08209/FlClash/releases) | [前往](https://clash.guide/flclash.html) | 
-| [Clash Verge Rev](https://clash.guide/clash-verge.html) | 🟢 | ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://clash.guide/clash-verge.html) |
-| [ClashMi]() | 🟢 |  ✅ | ✅ | ✅ | ✅ | [官方](https://github.com/KaringX/clashmi/releases) | - |
-| [GUI for Clash]() | 🟢 |  ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | - |
-| [V2rayN]() | 🟢 |  ✅ | ❌ | ❌ | ❌ | [官方](https://github.com/2dust/v2rayN/releases) | - |
-| [Hiddify Next]() | 🟢 | ✅ | ✅ | ✅ | ❌ | [官方](https://github.com/hiddify/hiddify-app/releases) | - |
-| [Clash Meta for Android](https://clash.guide/clash-meta-for-android.html) | 🟢 | ❌ | ❌ | ✅ | ❌ | [官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://clash.guide/clash-meta-for-android.html) |
-| [Clash Verge](https://clash.guide/clash-verge.html) | 🔴 |  ✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clash-verge) | [前往](https://clash.guide/clash-verge.html) |
-| [Clash for Windows](https://clash.guide/clash-for-windows.html) | 🔴 |✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clash-for-windows) | [前往](https://clash.guide/clash-for-windows.html) |
-| [ClashX](https://clash.guide/clashx.html) | 🔴 |  ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clashx) | [前往](https://clash.guide/clashx) |
-| [Clash for Android](https://clash.guide/clash-for-android.html) | 🔴 | ❌ | ❌ | ✅ | ❌ | [备份](https://github.com/clash-version-download/clash-for-android) | [前往](https://clash.guide/clash-for-android.html) |
+| 客户端                 | Win | Mac  | Android | Linux | 仓库                                                     |Star                                                     | 教程                                                         |
+| ---------------------- | ------- | ---- | ------- | ----- |------------------------------------------------------------ |------------------------------------------------------------ |  ------------------------------------------------------------ |
+| Clash Verge Rev        | ✅       | ✅    | ❌       | ✅     | [![Version](https://img.shields.io/github/v/release/clash-verge-rev/clash-verge-rev?color=3DDC84&logo=windows&logoColor=white)](https://github.com/clash-verge-rev/clash-verge-rev/releases)  |                          ![GitHub stars](https://img.shields.io/github/stars/MetaCubeX/ClashMetaForAndroid?style=social)|                              [前往](https://clash.guide/clash-verge) |![GitHub stars](https://img.shields.io/github/stars/MetaCubeX/ClashMetaForAndroid?style=social)|
+| Clash Mi               | ✅       | ✅    | ✅       | ✅     | [![Version](https://img.shields.io/github/v/release/KaringX/clashmi?color=3DDC84&logo=windows&logoColor=white)](https://github.com/KaringX/clashmi/releases)           |                              ![GitHub stars](https://img.shields.io/github/stars/KaringX/clashmi?style=social)|                         [前往](https://clash.guide/clashmi)       |
+| FlClash                | ✅       | ✅    | ✅       | ✅     | [![Version](https://img.shields.io/github/v/release/chen08209/FlClash?color=3DDC84&logo=windows&logoColor=white)](https://github.com/chen08209/FlClash/releases)        |                                ![GitHub stars](https://img.shields.io/github/stars/chen08209/FlClash?style=social)|                        [前往](https://clash.guide/flclash )       |
+| FlClashX                | ✅       | ✅    | ✅       | ✅     | [![Version](https://img.shields.io/github/v/release/pluralplay/FlClashX?color=3DDC84&logo=windows&logoColor=white)](https://github.com/pluralplay/FlClashX/releases)        |                              ![GitHub stars](https://img.shields.io/github/stars/pluralplay/FlClashX?style=social)|                          [前往](https://flclashx)       |
+| Hiddify Next           | ✅       | ✅    | ✅       | ✅     | [![Version](https://img.shields.io/github/v/release/hiddify/hiddify-app?color=3DDC84&logo=windows&logoColor=white)](https://github.com/hiddify/hiddify-app/releases)    |                                  ![GitHub stars](https://img.shields.io/github/stars/hiddify/hiddify-app?style=social)|                      [前往](https://clash.guide/hiddify)   |
+| Clash Party            | ✅       | ✅    | ❌       | ✅     | [![Version](https://img.shields.io/github/v/release/mihomo-party-org/clash-party?color=3DDC84&logo=windows&logoColor=white)](https://github.com/mihomo-party-org/clash-party/releases) |                            ![GitHub stars](https://img.shields.io/github/stars/mihomo-party-org/clash-party?style=social)|                            [前往](https://clash.guide/clash-party)    |
+| Clash Nyanpasu         | ✅       | ✅    | ❌       | ✅     | [![Version](https://img.shields.io/github/v/release/libnyanpasu/clash-nyanpasu?color=3DDC84&logo=windows&logoColor=white)](https://github.com/libnyanpasu/clash-nyanpasu/releases) |                              ![GitHub stars](https://img.shields.io/github/stars/libnyanpasu/clash-nyanpasu?style=social)|                          - |
+| ClashX Meta            | ❌       | ✅    | ❌       | ❌     | [![Version](https://img.shields.io/github/v/release/MetaCubeX/ClashX.Meta?color=3DDC84&logo=windows&logoColor=white)](https://github.com/MetaCubeX/ClashX.Meta/releases)    |                                ![GitHub stars](https://img.shields.io/github/stars/MetaCubeX/ClashX.Meta?style=social)|                        [前往](https://clash.guide/clashx-meta-for-android)    |
+| Clash Meta for Android | ❌       | ❌    | ✅       | ❌     | [![Version](https://img.shields.io/github/v/release/MetaCubeX/ClashMetaForAndroid?color=3DDC84&logo=windows&logoColor=white)](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)   |                         ![GitHub stars](https://img.shields.io/github/stars/MetaCubeX/ClashMetaForAndroid?style=social)|                               [前往](https://clash.guide/clash-meta-for-android) |
+| Clash Verge            | ✅       | ✅    | ❌       | ❌     | [![Version](https://img.shields.io/github/v/release/zzzgydi/clash-verge?color=3DDC84&label=停更&logo=windows&logoColor=white)](https://github.com/zzzgydi/clash-verge/releases)     |                                 ![GitHub stars](https://img.shields.io/github/stars/zzzgydi/clash-verge?style=social)|                       [前往](https://clash.guide/clash-verge)    |
+| Mihomo Party           | ✅       | ✅    | ❌       | ✅     | [![Version](https://img.shields.io/github/v/release/mihomo-party-org/mihomo-party?color=3DDC84&label=停更&logo=windows&logoColor=white)](https://github.com/mihomo-party-org/mihomo-party/releases)  |                           ![GitHub stars](https://img.shields.io/github/stars/mihomo-party-org/mihomo-party?style=social)|                             -  |
+| ClashN                 | ✅       | ❌    | ❌       | ❌     | [![Version](https://img.shields.io/github/v/release/2dust/clashN?color=3DDC84&label=停更&logo=windows&logoColor=white)](https://github.com/2dust/clashN/releases)       |                                      ![GitHub stars](https://img.shields.io/github/stars/2dust/clashN?style=social)|                  [前往](https://github.com/2dust/clashN/releases)             |
+| Clash for Windows      | ✅       | ✅    | ❌       | ❌     |                                              [![Version](https://img.shields.io/github/v/release/clash-guide/Clash_for_Windows?color=3DDC84&label=备份&logo=windows&logoColor=white)](https://github.com/clash-guide/Clash_for_Windows/releases) || [前往](https://clash.guide/clash-for-windows) |
+| Clash for Android      | ❌       | ❌    | ✅       | ❌     |                                                    [![Version](https://img.shields.io/github/v/release/clash-guide/Clash_for_Android?color=3DDC84&label=备份&logo=windows&logoColor=white)](https://github.com/clash-guide/Clash_for_Android/releases) | | [前往](https://clash.guide/clash-for-android ) |
+| ClashX                 | ❌       | ✅    | ❌       | ❌     |                     [![Version](https://img.shields.io/github/v/release/clash-guide/ClashX?color=3DDC84&label=备份&logo=windows&logoColor=white)](https://github.com/clash-guide/ClashX/releases)             |            |      [前往](https://clash.guide/clashx)         |
+
 ---
 
 
@@ -37,7 +42,7 @@
             <th style="border: 1px solid #ddd; padding: 12px; text-align: center; background-color: #f2f2f2;">🌐 流量</th>
             <th style="border: 1px solid #ddd; padding: 12px; text-align: center; background-color: #f2f2f2;">💵 月付价格</th>
             <th style="border: 1px solid #ddd; padding: 12px; text-align: center; background-color: #f2f2f2;">💵 年付价格</th>
-            <th style="border: 1px solid #ddd; padding: 12px; text-align: center; background-color: #f2f2f2;">💵 永久流量包</th>
+            <th style="border: 1px solid #ddd; padding: 12px; text-align: center; background-color: #f2f2f2;">💵 流量包</th>
             <th style="border: 1px solid #ddd; padding: 12px; text-align: center; background-color: #f2f2f2;">💵 免费试用</th>
         </tr>
     </thead>
