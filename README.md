@@ -1,6 +1,19 @@
 # Clash最新版下载地址及备份下载地址｜2026版
 
-如果你觉得这个项目对你有帮助，欢迎点右上角的**Star**⭐ 支持一下！**Fork**可永久保存到自己仓库。
+如果你觉得这个项目对你有帮助，欢迎点右上角的**Star**⭐ 支持一下！。
+
+## 如何选择合适的客户端？
+⚠️停更的客户端无法兼容新协议导致节点不可用，建议更新到更安全、更美观、兼容性更好的新版本
+### 新手推荐：
+- **Windows 用户**：推荐 [FlClashX](https://flclashx.com)（现代化界面）或 [Clash Verge Rev](https://openetkit.com/clash-verge-rev/install) （功能齐全）
+- **macOS 用户**：推荐 [FlClashX](https://flclashx.com)（现代化界面）
+- **iOS 用户**：推荐 [Clash Mi](https://openetkit.com/clashmi/install)（免费开源）或 [Potatso](https://apps.apple.com/us/app/potatso/id1239860606)（免费）
+- **Android 用户**：推荐 [Clash Meta for Android](https://openetkit.com/clash-meta-for-android/install)（功能最强）
+- **鸿蒙用户**：推荐 [使用桌易通安装Clash Meta for Android](https://openetkit.com/zhuoyitong)，原生推荐[Clash Box](https://openetkit.com/clashbox/install)（专为 HarmonyOS 优化,需要自签证书）
+### 进阶用户：
+- 需要路由器部署：[OpenClash](https://openetkit.com/openclash/install)（OpenWRT 插件,实现全屋加速）
+
+**👉[高速流量免费试用，流媒体/AI全解锁，最低￥0.19/G。](https://t.polarisnet.cloud/#/register?code=G53csTkQ)**
 
 ## 客户端汇总
 
