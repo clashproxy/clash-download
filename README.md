@@ -17,7 +17,7 @@
 
 ## 客户端汇总
 
-| 客户端                 | Win | Mac  | Android | Linux | 仓库                                                     |Star                                                     | 教程                                                         |
+| 客户端                 | Win | Mac  | Android | Linux | 仓库                                                     |Star                                                     |   下载                                                       |
 | ---------------------- | ------- | ---- | ------- | ----- |------------------------------------------------------------ |------------------------------------------------------------ |  ------------------------------------------------------------ |
 | Clash Verge Rev        | ✅       | ✅    | ❌       | ✅     | [![Version](https://img.shields.io/github/v/release/clash-verge-rev/clash-verge-rev?color=3DDC84&logo=windows&logoColor=white)](https://github.com/clash-verge-rev/clash-verge-rev/releases)  |                          ![GitHub stars](https://img.shields.io/github/stars/MetaCubeX/ClashMetaForAndroid?style=social)|                              [前往](https://clash.guide/clash-verge) |![GitHub stars](https://img.shields.io/github/stars/MetaCubeX/ClashMetaForAndroid?style=social)|
 | Clash Mi               | ✅       | ✅    | ✅       | ✅     | [![Version](https://img.shields.io/github/v/release/KaringX/clashmi?color=3DDC84&logo=windows&logoColor=white)](https://github.com/KaringX/clashmi/releases)           |                              ![GitHub stars](https://img.shields.io/github/stars/KaringX/clashmi?style=social)|                         [前往](https://clash.guide/clashmi.html)       |
