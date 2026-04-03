@@ -13,7 +13,7 @@
 ### 进阶用户：
 - 需要路由器部署：[OpenClash](https://openetkit.com/openclash/install)（OpenWRT 插件,实现全屋加速）
 
-**👉[高速流量免费试用，流媒体/AI全解锁，最低￥0.19/G。](https://t.polarisnet.cloud/#/register?code=G53csTkQ)**
+**👉[高速流量免费试用，流媒体/AI全解锁。]([https://coolgo.cloud/cabinet/login](https://coolgo.network/cabinet/register?utm_source=github&utm_medium=MEDIUM&utm_campaign=CAMPAIGN))**
 
 ## 客户端汇总
 
